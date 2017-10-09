@@ -49,7 +49,7 @@ var allFrequencies = [
     28160,              29834.480737157748, 31608.53128039195];
 
 var inputTextField = document.getElementById("textInput");
-var button = document.getElementById("Button");
+var button = document.getElementById("button");
 var outputTextField = document.getElementById("textOutput");
 
 var calculateAndOutputMidiNote = function (value)
